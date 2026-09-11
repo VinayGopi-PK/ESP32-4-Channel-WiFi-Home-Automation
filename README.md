@@ -186,7 +186,7 @@ The design includes:
 
 ### Schematic
 
-![ESP32 4-Channel Home Automation Schematic](Images/ESP32_Home_Automation_Schematic.png)
+![ESP32 4-Channel Home Automation Schematic](Images/ESP32 Home Automation Schematic.JPG)
 
 ### PCB Front Layout
 
