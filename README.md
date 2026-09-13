@@ -91,9 +91,9 @@ The PCB provides **four independent relay channels** for controlling external el
 ```text
                     ESP32
                       │
-          ┌───────────┼───────────┐
-          │           │           │
-          ▼           ▼           ▼
+          ┌───────────┼───────────┐───────────┐   
+          │           │           │           │
+          ▼           ▼           ▼           ▼
        Channel 1   Channel 2   Channel 3   Channel 4
           │           │           │           │
           ▼           ▼           ▼           ▼
