@@ -186,19 +186,19 @@ The design includes:
 
 ### Schematic
 
-![ESP32 4-Channel Home Automation Schematic](Images/ESP32 Home Automation Schematic.JPG)
+![ESP32 Home Automation Schematic](Images/ESP32%20Home%20Automation%20Schematic.JPG)
 
 ### PCB Front Layout
 
-![ESP32 4-Channel Home Automation PCB Front Layout](Images/ESP32_Home_Automation_PCB_Front.png)
+![ESP32 4-Channel Home Automation PCB Front Layout](Images/Front%20PCB%20Layout.JPG)
 
 ### PCB Back Layout
 
-![ESP32 4-Channel Home Automation PCB Back Layout](Images/ESP32_Home_Automation_PCB_Back.png)
+![ESP32 4-Channel Home Automation PCB Back Layout](Images/Back%20PCB%20Layout.JPG)
 
 ### 3D View
 
-![ESP32 4-Channel Home Automation PCB 3D View](Images/ESP32_Home_Automation_3D_View.png)
+![ESP32 4-Channel Home Automation PCB 3D View](Images/ESP32%20Home%20Automation%20PCB%203D%20View.JPG)
 
 ---
 
